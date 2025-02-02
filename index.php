@@ -11,7 +11,7 @@ include 'config.php';
 
 <body style="background: linear-gradient(#6D00FC, #330074);">
     <center>
-        <img src="logo.png" style="max-width: 40%; height: 40%;">
+        <img src="logo.png" style="max-width: 40%; height: auto;">
 
         <div>
             <br>
@@ -36,7 +36,7 @@ include 'config.php';
         </div>
         
         <br>
-        <img src="files/about.png" style="max-width: 30%; height: 30%;">
+        <img src="files/about.png" style="max-width: 30%; height: auto;">
         
         <div class="text">
             <span class="white"><?php echo $about; ?></span>
@@ -44,8 +44,7 @@ include 'config.php';
 
         <div class="text">
             <!-- Do not remove pls -->
-            <span class="white">Copyright © 2025 <span class="blue"><u><a href="https://www.youtube.com/@Upsilon_GDPS"
-                            target="_blank">Upsilon GDPS</a> <span class="white"> All rights reserved.
+            <span class="white">Copyright © 2025 Upsilon GDPS All rights reserved.
         </div>
     </center>
 </body>
