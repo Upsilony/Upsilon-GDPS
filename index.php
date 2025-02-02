@@ -11,16 +11,16 @@ include 'config.php';
 
 <body style="background: linear-gradient(#6D00FC, #330074);">
     <center>
-        <img src="logo.png" style="max-width: 40; height: auto;">
+        <img src="logo.png" style="max-width: 40%; height: 40%;">
 
         <div>
             <br>
             <br>
             <br>
             <!-- Upper buttons -->
-            <a href="<?php echo $windows; ?>.zip"download><img src="files/windows.png" width="200" hspace="12"></a>
-            <a href="<?php echo $android; ?>.apk"download><img src="files/android.png" width="200" hspace="12"></a>
-            <a href="<?php echo $tools; ?>"><img src="files/tools.png" width="200" hspace="12"></a>
+            <a href="<https://www.mediafire.com/file/ce9vup4cad2k4ya/Upsilon_GDPS_11_PC.zip/file>.zip"download><img src="files/windows.png" width="200" hspace="12"></a>
+            <a href="<https://www.mediafire.com/file/ya3swqt11ac8epn/UGDPS11Android.apk/file>.apk"download><img src="files/android.png" width="200" hspace="12"></a>
+            <a href="<https://nahhhh.ps.fhgdps.com/dashboard>"><img src="files/tools.png" width="200" hspace="12"></a>
             <!-- Add buttons below -->
         </div>
 
@@ -28,15 +28,15 @@ include 'config.php';
 
         <div>
             <!-- Lower buttons -->
-            <a href="<?php echo $youtube; ?>" target="_blank"><img src="files/youtube.png" width="200"
+            <a href="<https://youtube.com/@Upsilon_GDPS>" target="_blank"><img src="files/youtube.png" width="200"
                     hspace="12"></a>
-            <a href="<?php echo $discord; ?>" target="_blank"><img src="files/discord.png" width="200"
+            <a href="<https://discord.gg/cY8jBwKZkM>" target="_blank"><img src="files/discord.png" width="200"
                     hspace="12"></a>
             <!-- Add buttons below -->
         </div>
         
         <br>
-        <img src="files/about.png" style="max-width: 30; height: auto;">
+        <img src="files/about.png" style="max-width: 30%; height: 30%;">
         
         <div class="text">
             <span class="white"><?php echo $about; ?></span>
@@ -44,8 +44,8 @@ include 'config.php';
 
         <div class="text">
             <!-- Do not remove pls -->
-            <span class="white">Template by <span class="blue"><u><a href="https://www.youtube.com/c/ParadoxGDPS"
-                            target="_blank">Starmor</a>
+            <span class="white">Copyright © 2025 <span class="blue"><u><a href="https://www.youtube.com/@Upsilon_GDPS"
+                            target="_blank">Upsilon GDPS</a> <span class="white"> All rights reserved.
         </div>
     </center>
 </body>
